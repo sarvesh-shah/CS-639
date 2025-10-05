@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sarvesh</string>
+    <string name="title_biography">Biography</string>
+    <string name="bio">Sarvesh Shah is a graduate student at Pace University studying Computer
+                       Science. Sarvesh was born and brought up in India. He did his bachelors from
+                       Mumbai Engineering college in 2022 and then went onto work for one of the
+                       top MnCs for 2 years where he worked as an AWS Cloud Developer. He lead a
+                       team of 5 members and worked on a webapp development of the client.
+    </string>
+    <string name="title_hobbies">Hobbies</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="title_contact">Contact</string>
+    <string name="contact">Contact</string>
+    <string name="previous">Previous</string>
+    <string name="hobbies_text">My hobbies include dancing, reading books, playing carrom and
+                                cricket.
+    </string>
+    <string name="contact_email">Email: sarvesh.ys@gmail.com</string>
+    <string name="contact_phone"> Phone: (123)456.7890</string>
+    <string name="toast_contact">Going to Contact…</string>
+    <string name="fab_message">Email: sarvesh.ys@gmail.com</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+</resources>
