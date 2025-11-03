@@ -14,3 +14,6 @@ This course covers Android app development using **Kotlin** and **Android Studio
 - AboutMe App
 - HappyBirthday App
 - BusinessCard App
+- RaceTracker App
+- MarsPhotos App
+- Circle App
